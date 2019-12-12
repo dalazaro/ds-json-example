@@ -1,15 +1,15 @@
 {
 	"cases": [
 		{
-			"case_id":		15638,
+			"case_id":			15638,
 			"patient": {
-				"name":		{
+				"name": {
 					"first":	"Lucy",
 					"last":		"Preston"
 				},
-				"dob":		19830728,
-				"gender":	"F",
-				"mrn":		"TM3725861"
+				"dob":			19830728,
+				"gender":		"F",
+				"mrn":			"TM3725861"
 			},
 			"details": {
 				"case_title":	"Total Knee Arthroplasty",
@@ -18,23 +18,20 @@
 					"start":	20200130100000,
 					"end":		20200130120000
 				},
-				"physician": {
-					"id":		2791,
-					"name":		"Flynn, Garcia"
-				},
-				"notes":	"Discharge to SNF. Schedule 10 PT visitations for mobility recovery post-discharge"
+				"physician":	"Flynn, Garcia",
+				"notes":		"Discharge to SNF. Schedule 10 PT visitations for mobility recovery post-discharge"
 			}
 		},
 		{
-			"case_id":		28490,
+			"case_id":			28490,
 			"patient": {
-				"name":		{
+				"name": {
 					"first":	"Wyatt",
 					"last":		"Logan"
 				},
-				"dob":		19820617,
-				"gender":	"M",
-				"mrn":		"TM7452937"
+				"dob":			19820617,
+				"gender":		"M",
+				"mrn":			"TM7452937"
 			},
 			"details": {
 				"case_title":	"Hip Replacement Consultation",
@@ -43,23 +40,20 @@
 					"start":	20200130131500,
 					"end":		20200130134500
 				},
-				"physician": {
-					"id":		2791,
-					"name":		"Flynn, Garcia"
-				},
-				"notes":	"Family history of hip dysplasia. Completed risk assessment 12/11/2019. Risk score: 3"
+				"physician":	"Flynn, Garcia",
+				"notes":		"Family history of hip dysplasia. Completed risk assessment 12/11/2019. Risk score: 3"
 			}
 		},
 		{
-			"case_id":		37558,
+			"case_id":			37558,
 			"patient": {
-				"name":		{
+				"name": {
 					"first":	"Rufus",
 					"last":		"Carlin"
 				},
-				"dob":		19800422,
-				"gender":	"M",
-				"mrn":		"TM6593926"
+				"dob":			19800422,
+				"gender":		"M",
+				"mrn":			"TM6593926"
 			},
 			"details": {
 				"case_title":	"Lumbar Spinal Fusion",
@@ -68,11 +62,8 @@
 					"start":	20200130141500,
 					"end":		20200130163000
 				},
-				"physician": {
-					"id":		2791,
-					"name":		"Flynn, Garcia"
-				},
-				"notes":	"Requires open repair and bone spur removal. NSAID hypersensitive."
+				"physician":	"Flynn, Garcia",
+				"notes":		"Requires open repair and bone spur removal. NSAID hypersensitive."
 			}
 		}
 	]
