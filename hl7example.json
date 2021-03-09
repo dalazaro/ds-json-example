@@ -58,14 +58,9 @@
 				},
 				"attendees": [
 					{
-					  "npi": "1773249856",
-					  "name": "Garcia Flynn",
-					  "role": "Attending Physician"
-					},
-					{
 					  "npi": "1567456756",
 					  "name": "Connor Mason",
-					  "role": "Referring Physician"
+					  "role": "Attending Physician"
 					},
 					{
 					  "npi": "1984654389",
@@ -99,11 +94,6 @@
 					  "npi": "1773249856",
 					  "name": "Garcia Flynn",
 					  "role": "Attending Physician"
-					},
-					{
-					  "npi": "1567456756",
-					  "name": "Connor Mason",
-					  "role": "Referring Physician"
 					},
 					{
 					  "npi": "1984654389",
