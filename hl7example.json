@@ -1,0 +1,118 @@
+{
+	"cases": [
+		{
+			"case_id": 15638,
+			"patient": {
+				"name": {
+					"first": "Lucy",
+					"last": "Preston"
+				},
+				"dob": 19830728,
+				"gender": "F",
+				"mrn": "TM3725861"
+			},
+			"details": {
+				"case_title": "Total Knee Arthroplasty",
+				"case_type": "Surgery",
+				"time": {
+					"start": 20210730100000,
+					"end": 20210730120000
+				},
+				"attendees": [
+					{
+            "npi": "1773249856",
+					  "name": "Garcia Flynn",
+					  "role": "Attending Physician"
+					},
+          {
+            "npi": "1567456756",
+					  "name": "Connor Mason",
+					  "role": "Referring Physician"
+					},
+          {
+            "npi": "1984654389",
+					  "name": "Denise Christopher",
+					  "role": "Medical Assistant"
+					}
+				],
+				"notes": "Discharge to SNF. Schedule 10 PT visitations for mobility recovery post-discharge"
+			}
+		},
+		{
+			"case_id": 28490,
+			"patient": {
+				"name": {
+					"first": "Wyatt",
+					"last": "Logan"
+				},
+				"dob": 19820617,
+				"gender": "M",
+				"mrn": "TM7452937"
+			},
+			"details": {
+				"case_title": "Hip Replacement Consultation",
+				"case_type": "Clinical",
+				"time": {
+					"start": 20210731131500,
+					"end": 20210731134500
+				},
+				"attendees": [
+					{
+            "npi": "1773249856",
+					  "name": "Garcia Flynn",
+					  "role": "Attending Physician"
+					},
+          {
+            "npi": "1567456756",
+					  "name": "Connor Mason",
+					  "role": "Referring Physician"
+					},
+          {
+            "npi": "1984654389",
+					  "name": "Denise Christopher",
+					  "role": "Medical Assistant"
+					}
+				],
+				"notes": "Family history of hip dysplasia. Completed risk assessment 12/11/2019. Risk score: 3"
+			}
+		},
+		{
+			"case_id": 37558,
+			"patient": {
+				"name": {
+					"first": "Rufus",
+					"last": "Carlin"
+				},
+				"dob": 19800422,
+				"gender": "M",
+				"mrn": "TM6593926"
+			},
+			"details": {
+				"case_title": "Lumbar Spinal Fusion",
+				"case_type": "Surgery",
+				"time": {
+					"start": 20210801141500,
+					"end": 20210801163000
+				},
+				"attendees": [
+					{
+            "npi": "1773249856",
+					  "name": "Garcia Flynn",
+					  "role": "Attending Physician"
+					},
+          {
+            "npi": "1567456756",
+					  "name": "Connor Mason",
+					  "role": "Referring Physician"
+					},
+          {
+            "npi": "1984654389",
+					  "name": "Denise Christopher",
+					  "role": "Medical Assistant"
+					}
+				],
+				"notes": "Requires open repair and bone spur removal. NSAID hypersensitive."
+			}
+		}
+	]
+}
